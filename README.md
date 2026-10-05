@@ -70,7 +70,7 @@ The trained model is saved and loaded for making predictions through the Streaml
 
 The application is deployed using **Streamlit Community Cloud**.
 
-🚀 **Live Application:** [Student Performance Predictor](YOUR_STREAMLIT_LINK_HERE)
+🚀 **Live Application:**  https://student-performance-predictor-zkbnxrfjpeqbvgnesq8xbj.streamlit.app
 
 ## 📂 Project Structure
 
