@@ -51,6 +51,7 @@ The model predicts the student's **overall/average performance score**, calculat
 * Scikit-learn
 * Matplotlib
 * Seaborn
+* Joblib
 * Streamlit
 
 ## 🤖 Machine Learning
@@ -76,12 +77,18 @@ The application is deployed using **Streamlit Community Cloud**.
 ```text
 student-performance-predictor/
 │
-├── app.py
+├── Home.py
 ├── models.pkl
 ├── requirements.txt
-├── README.md
 ├── bg4.jpeg
-└── StudentPerformance.csv
+├── style.css
+├── project_sp.ipynb
+├── pages/
+      ├── 1_Prediction.py
+      ├── 2_Analysis.py
+      ├── 3_About.py
+├── dataset/StudentPerformance.csv
+└── README.md
 ```
 
 ## ▶️ Run Locally
