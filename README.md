@@ -123,6 +123,6 @@ The application will open in your browser.
 
 **Ishika Parmar**
 
-BSc(CA & IT) / Integrated MSc(CA & IT)
+Integrated MSc(CA & IT)
 
 Gujarat University
